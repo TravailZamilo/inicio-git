@@ -1,0 +1,1 @@
+{"mime":"text/plain","filter":false,"title":"lsinsulin-seq-clean.txt","tooltip":"/Insulina/lsinsulin-seq-clean.txt","ace":{},"undoManager":{"mark":-1,"position":-1,"stack":[]},"timestamp":1732893486760,"hash":"029ef34fe4e36ac4e28efd4351608f1ac78b85ea"}
